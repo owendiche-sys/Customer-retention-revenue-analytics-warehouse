@@ -1,0 +1,121 @@
+customer_id,full_name,email,signup_date,country,acquisition_channel
+CUST0001,Elijah Smith,elijah.smith1@example.com,2024-10-08,USA,Paid Ads
+CUST0002,Henry Lewis,henry.lewis2@example.com,2024-03-14,Nigeria,Paid Ads
+CUST0003,William Clark,william.clark3@example.com,2025-03-08,Nigeria,Organic Search
+CUST0004,Amelia Johnson,amelia.johnson4@example.com,2025-06-29,USA,Paid Ads
+CUST0005,Noah Taylor,noah.taylor5@example.com,2024-03-10,UK,Referral
+CUST0006,Evelyn Smith,evelyn.smith6@example.com,2024-04-05,USA,Paid Ads
+CUST0007,Ella Harris,ella.harris7@example.com,2024-11-19,Canada,Paid Ads
+CUST0008,Elijah Lewis,elijah.lewis8@example.com,2024-06-08,Canada,Referral
+CUST0009,Olivia Taylor,olivia.taylor9@example.com,2024-09-12,UK,Referral
+CUST0010,Benjamin Thomas,benjamin.thomas10@example.com,2025-03-17,UK,Referral
+CUST0011,Benjamin Brown,benjamin.brown11@example.com,2024-01-26,UK,Paid Ads
+CUST0012,Isabella Brown,isabella.brown12@example.com,2025-06-30,UK,Social Media
+CUST0013,Lucas Taylor,lucas.taylor13@example.com,2024-01-21,Nigeria,Paid Ads
+CUST0014,Lucas Anderson,lucas.anderson14@example.com,2025-01-12,Germany,Direct
+CUST0015,Ava White,ava.white15@example.com,2024-03-16,Nigeria,Organic Search
+CUST0016,Isabella Anderson,isabella.anderson16@example.com,2024-07-04,Nigeria,Social Media
+CUST0017,Harper Anderson,harper.anderson17@example.com,2024-01-03,Canada,Referral
+CUST0018,Isabella Anderson,isabella.anderson18@example.com,2024-06-10,UK,Social Media
+CUST0019,Ava Harris,ava.harris19@example.com,2025-01-09,UK,Social Media
+CUST0020,Evelyn Jackson,evelyn.jackson20@example.com,2024-06-07,Germany,Organic Search
+CUST0021,Mia Martin,mia.martin21@example.com,2024-05-31,UK,Paid Ads
+CUST0022,Olivia Smith,olivia.smith22@example.com,2024-07-04,USA,Direct
+CUST0023,Noah Brown,noah.brown23@example.com,2024-06-10,Nigeria,Organic Search
+CUST0024,Olivia Thomas,olivia.thomas24@example.com,2024-05-31,USA,Organic Search
+CUST0025,Isabella Johnson,isabella.johnson25@example.com,2025-04-25,Germany,Referral
+CUST0026,Isabella Harris,isabella.harris26@example.com,2025-06-19,Nigeria,Paid Ads
+CUST0027,Harper Johnson,harper.johnson27@example.com,2025-03-09,Nigeria,Referral
+CUST0028,Sophia Thomas,sophia.thomas28@example.com,2024-08-31,Germany,Direct
+CUST0029,William Anderson,william.anderson29@example.com,2025-04-05,Nigeria,Paid Ads
+CUST0030,Alexander Taylor,alexander.taylor30@example.com,2024-11-04,UK,Organic Search
+CUST0031,Alexander Harris,alexander.harris31@example.com,2025-02-11,Nigeria,Social Media
+CUST0032,Isabella Thomas,isabella.thomas32@example.com,2025-04-02,UK,Referral
+CUST0033,Noah Brown,noah.brown33@example.com,2024-03-09,USA,Referral
+CUST0034,Isabella Taylor,isabella.taylor34@example.com,2024-10-19,Germany,Paid Ads
+CUST0035,William Brown,william.brown35@example.com,2024-11-26,USA,Referral
+CUST0036,Mia Lewis,mia.lewis36@example.com,2024-11-22,Canada,Social Media
+CUST0037,Elijah Brown,elijah.brown37@example.com,2024-04-09,Germany,Referral
+CUST0038,Henry Martin,henry.martin38@example.com,2025-05-10,USA,Paid Ads
+CUST0039,Amelia Taylor,amelia.taylor39@example.com,2024-07-25,Nigeria,Referral
+CUST0040,Evelyn Lewis,evelyn.lewis40@example.com,2024-02-08,USA,Social Media
+CUST0041,James Brown,james.brown41@example.com,2024-12-01,Nigeria,Social Media
+CUST0042,Alexander White,alexander.white42@example.com,2025-03-10,Nigeria,Social Media
+CUST0043,William Clark,william.clark43@example.com,2025-03-13,Nigeria,Social Media
+CUST0044,Benjamin White,benjamin.white44@example.com,2024-08-01,Canada,Referral
+CUST0045,Amelia Thomas,amelia.thomas45@example.com,2024-07-27,Canada,Referral
+CUST0046,Harper Anderson,harper.anderson46@example.com,2024-12-28,Canada,Social Media
+CUST0047,Ava Clark,ava.clark47@example.com,2024-12-05,Germany,Paid Ads
+CUST0048,Grace Martin,grace.martin48@example.com,2024-11-28,Germany,Organic Search
+CUST0049,Ella Taylor,ella.taylor49@example.com,2024-07-03,Nigeria,Organic Search
+CUST0050,Isabella Lewis,isabella.lewis50@example.com,2025-04-08,Canada,Organic Search
+CUST0051,Evelyn Brown,evelyn.brown51@example.com,2025-01-09,Canada,Paid Ads
+CUST0052,Amelia Jackson,amelia.jackson52@example.com,2025-05-18,Germany,Social Media
+CUST0053,Oliver White,oliver.white53@example.com,2024-04-30,USA,Paid Ads
+CUST0054,Liam Jackson,liam.jackson54@example.com,2024-07-26,USA,Referral
+CUST0055,Elijah Johnson,elijah.johnson55@example.com,2024-11-16,Canada,Referral
+CUST0056,James Jackson,james.jackson56@example.com,2025-03-06,Canada,Direct
+CUST0057,Sophia Johnson,sophia.johnson57@example.com,2025-04-09,Nigeria,Direct
+CUST0058,Elijah Taylor,elijah.taylor58@example.com,2025-06-05,UK,Organic Search
+CUST0059,Evelyn White,evelyn.white59@example.com,2024-01-09,Canada,Paid Ads
+CUST0060,Alexander Anderson,alexander.anderson60@example.com,2024-06-27,UK,Social Media
+CUST0061,Ella Harris,ella.harris61@example.com,2024-11-25,Germany,Referral
+CUST0062,Mia Smith,mia.smith62@example.com,2024-01-23,USA,Direct
+CUST0063,Grace White,grace.white63@example.com,2024-02-01,Germany,Paid Ads
+CUST0064,Alexander Clark,alexander.clark64@example.com,2025-05-06,USA,Organic Search
+CUST0065,Noah Jackson,noah.jackson65@example.com,2025-06-19,Germany,Direct
+CUST0066,Oliver Johnson,oliver.johnson66@example.com,2025-02-01,Nigeria,Social Media
+CUST0067,Amelia Lewis,amelia.lewis67@example.com,2024-04-10,USA,Paid Ads
+CUST0068,Olivia White,olivia.white68@example.com,2024-09-15,USA,Social Media
+CUST0069,Alexander Jackson,alexander.jackson69@example.com,2024-12-05,Canada,Referral
+CUST0070,Liam Clark,liam.clark70@example.com,2024-09-11,USA,Referral
+CUST0071,Benjamin Anderson,benjamin.anderson71@example.com,2025-06-19,USA,Referral
+CUST0072,Olivia Clark,olivia.clark72@example.com,2024-11-16,Germany,Organic Search
+CUST0073,William Johnson,william.johnson73@example.com,2024-05-15,UK,Paid Ads
+CUST0074,Grace Martin,grace.martin74@example.com,2025-04-29,Canada,Social Media
+CUST0075,Harper Brown,harper.brown75@example.com,2025-05-25,UK,Direct
+CUST0076,Harper Anderson,harper.anderson76@example.com,2024-11-17,Nigeria,Paid Ads
+CUST0077,Mia Harris,mia.harris77@example.com,2024-02-25,UK,Referral
+CUST0078,Oliver Johnson,oliver.johnson78@example.com,2024-06-20,Nigeria,Direct
+CUST0079,Sophia Jackson,sophia.jackson79@example.com,2025-04-06,Germany,Social Media
+CUST0080,Liam Harris,liam.harris80@example.com,2024-05-24,UK,Organic Search
+CUST0081,James Harris,james.harris81@example.com,2024-07-20,Canada,Organic Search
+CUST0082,Ava Thomas,ava.thomas82@example.com,2024-12-19,Germany,Social Media
+CUST0083,Isabella Martin,isabella.martin83@example.com,2024-03-11,USA,Social Media
+CUST0084,Ella Harris,ella.harris84@example.com,2024-04-30,Nigeria,Organic Search
+CUST0085,Oliver Anderson,oliver.anderson85@example.com,2025-02-13,Canada,Social Media
+CUST0086,Oliver Jackson,oliver.jackson86@example.com,2024-08-13,USA,Referral
+CUST0087,Henry Brown,henry.brown87@example.com,2024-09-26,USA,Referral
+CUST0088,William Anderson,william.anderson88@example.com,2024-12-29,Canada,Direct
+CUST0089,Noah Smith,noah.smith89@example.com,2025-02-10,Nigeria,Organic Search
+CUST0090,Lucas Johnson,lucas.johnson90@example.com,2025-03-28,Canada,Referral
+CUST0091,Elijah Clark,elijah.clark91@example.com,2025-04-11,Nigeria,Social Media
+CUST0092,Elijah Lewis,elijah.lewis92@example.com,2024-09-11,Germany,Social Media
+CUST0093,Benjamin Thomas,benjamin.thomas93@example.com,2024-02-23,USA,Organic Search
+CUST0094,Benjamin Johnson,benjamin.johnson94@example.com,2024-02-02,Nigeria,Social Media
+CUST0095,Lucas Taylor,lucas.taylor95@example.com,2024-11-18,UK,Referral
+CUST0096,Sophia Anderson,sophia.anderson96@example.com,2025-02-07,USA,Paid Ads
+CUST0097,Noah Taylor,noah.taylor97@example.com,2024-05-31,Canada,Organic Search
+CUST0098,Grace Clark,grace.clark98@example.com,2024-08-20,Germany,Paid Ads
+CUST0099,Oliver Brown,oliver.brown99@example.com,2025-03-25,Nigeria,Social Media
+CUST0100,James White,james.white100@example.com,2025-04-07,UK,Direct
+CUST0101,William Brown,william.brown101@example.com,2024-07-02,UK,Social Media
+CUST0102,Harper Johnson,harper.johnson102@example.com,2025-05-10,Nigeria,Referral
+CUST0103,Oliver Anderson,oliver.anderson103@example.com,2024-11-03,Nigeria,Direct
+CUST0104,Olivia Johnson,olivia.johnson104@example.com,2024-06-01,Canada,Organic Search
+CUST0105,Benjamin Harris,benjamin.harris105@example.com,2024-12-24,Nigeria,Referral
+CUST0106,Isabella Brown,isabella.brown106@example.com,2024-10-16,Canada,Direct
+CUST0107,Ella Jackson,ella.jackson107@example.com,2025-03-21,Nigeria,Referral
+CUST0108,Grace Jackson,grace.jackson108@example.com,2024-12-01,Germany,Organic Search
+CUST0109,Olivia Jackson,olivia.jackson109@example.com,2024-06-06,Canada,Paid Ads
+CUST0110,Ella Anderson,ella.anderson110@example.com,2024-03-03,Germany,Direct
+CUST0111,Liam Johnson,liam.johnson111@example.com,2024-01-13,Germany,Organic Search
+CUST0112,Ava Smith,ava.smith112@example.com,2024-04-02,Canada,Direct
+CUST0113,Ella Taylor,ella.taylor113@example.com,2024-03-14,UK,Paid Ads
+CUST0114,Benjamin Johnson,benjamin.johnson114@example.com,2024-06-01,Germany,Social Media
+CUST0115,Ella Taylor,ella.taylor115@example.com,2024-06-01,Nigeria,Organic Search
+CUST0116,Mia Harris,mia.harris116@example.com,2024-02-03,Canada,Social Media
+CUST0117,James Anderson,james.anderson117@example.com,2024-06-24,Canada,Paid Ads
+CUST0118,Harper Jackson,harper.jackson118@example.com,2024-07-18,Germany,Referral
+CUST0119,Sophia Anderson,sophia.anderson119@example.com,2025-05-02,UK,Referral
+CUST0120,Alexander Anderson,alexander.anderson120@example.com,2025-01-06,UK,Direct
