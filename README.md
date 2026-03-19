@@ -193,7 +193,6 @@ customer-retention-revenue-analytics-warehouse/
 ├── dashboard/
 │   └── app.py
 │
-├── images/
 │
 ├── requirements.txt
 └── README.md
@@ -214,7 +213,7 @@ cd customer-retention-revenue-analytics-warehouse
 
 ```bash
 python -m venv .venv
-.venv\\Scripts\\activate
+.venv\\\\Scripts\\\\activate
 ```
 
 ### 3\. Install dependencies
@@ -230,43 +229,43 @@ Run the pipeline in this order:
 ### 1\. Build the database schema
 
 ```bash
-python scripts/build\_database.py
+python scripts/build\\\_database.py
 ```
 
 ### 2\. Generate the sample source data
 
 ```bash
-python scripts/generate\_sample\_data.py
+python scripts/generate\\\_sample\\\_data.py
 ```
 
 ### 3\. Load CSV data into the raw tables
 
 ```bash
-python scripts/load\_csvs.py
+python scripts/load\\\_csvs.py
 ```
 
 ### 4\. Create the staging layer
 
 ```bash
-python scripts/run\_staging.py
+python scripts/run\\\_staging.py
 ```
 
 ### 5\. Create the mart layer
 
 ```bash
-python scripts/run\_marts.py
+python scripts/run\\\_marts.py
 ```
 
 ### 6\. Validate table counts and sample outputs
 
 ```bash
-python scripts/check\_database.py
+python scripts/check\\\_database.py
 ```
 
 ### 7\. Run KPI outputs in the terminal
 
 ```bash
-python scripts/run\_kpis.py
+python scripts/run\\\_kpis.py
 ```
 
 ### 8\. Launch the Streamlit dashboard
@@ -319,6 +318,5 @@ Possible extensions for future versions include:
 
 ## Author
 
-**Owen Nda Diche**  
-
+**Owen Nda Diche**
 
